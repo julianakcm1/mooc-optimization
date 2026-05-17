@@ -7,5 +7,3 @@ Dado um orçamento limitado de intervenções por semana, este projeto busca sel
 ## Dataset
 
 O dataset utilizado neste projeto está disponível no Kaggle: <https://www.kaggle.com/datasets/sst2023/kdd-cup-2015>
-
-Após baixar, coloque o arquivo `log_train.csv` na pasta `data/`.
